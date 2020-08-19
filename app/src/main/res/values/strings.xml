@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navigation Component</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rent_a_boat">Rent A boat</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="password">Password</string>
+    <string name="full_names">Full Names</string>
+    <string name="feed">Feed</string>
+    <string name="orders">Orders</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="_100_eur">100 EUR</string>
+</resources>
